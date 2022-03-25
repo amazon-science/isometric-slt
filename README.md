@@ -15,9 +15,8 @@ For more details, see shared task [evaluation](https://iwslt.org/2022/isometric#
 
 
 ## Isometric SLT Shared Task Baselines
-_Results will be made available by the end of the evaluation period (March 25, 2022)._
+_Results will be made available by the end of the evaluation period (March 30, 2022)._
 
----
 
 ## Security
 
