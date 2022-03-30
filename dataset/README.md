@@ -14,4 +14,6 @@ About the test sets:
 - Files are organized as `./isometric-mt-test/en-[target]/test.en/[target]`
 - Source files are similar across the four language pairs
 - Each file contains `200` samples 
-- For source file integrity check `md5sum` == `54b967971321a87a836b58dcec8f73b2`
+- For source file (EN) integrity check `md5sum` == `54b967971321a87a836b58dcec8f73b2`
+- Reference files `md5sum`
+  - FR: `557d215d61cfa2181c5599d1088be2ba`, DE: `0380514b3430b068ce008115fd9dcd3a`, IT: `f5b176a83e7480ac8136c116502fcfcf`, ES: `1595f10f141ffbd1c12bfb8bfa615963`
