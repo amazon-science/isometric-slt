@@ -43,8 +43,8 @@ def compute_len_compliance(source_samples, target_samples, level, replace_, lc_r
         src_len, tgt_len = float(sample_length(src, level, replace_)), float(sample_length(tgt, level, replace_))
         len_ratio.append(tgt_len/src_len)
 
-        # for Isometric SLT shared task, LC is applied only for translations with length >10 char.
-        if (tgt_len < 10 or src_len < 10) and level == "char":
+        # LC is computed for source sample length > 10 char.
+        if src_len <= 10 and level == "char":
             len_range += 1
         else:
             len_diff = tgt_len - src_len
