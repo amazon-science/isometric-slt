@@ -13,9 +13,16 @@ from [./dataset/isometric-mt-test](dataset/isometric-mt-test). For evaluation sc
 For more details, see shared task [evaluation](https://iwslt.org/2022/isometric#evaluation) and 
 [system submission](https://iwslt.org/2022/isometric#system-submission) descriptions. 
 
-
-## Isometric SLT Shared Task Baselines
+## Baselines
 _Results will be made available by the end of the evaluation period (March 30, 2022)._
+
+## Submissions
+
+
+## Use cases 
+To evaluate the impact of isometric translation, we take automatic dubbing as a case study. 
+Access sample [automatically dubbed videos](usecases) utilizing translations 
+from baseline and systems submitted for the task.
 
 
 ## Security
@@ -36,5 +43,13 @@ If you participate in the Isometric SLT shared task or make use of the `isometri
   author={Lakew, Surafel M and Virkar, Yogesh and Mathur, Prashant and Federico, Marcello},
   journal={arXiv preprint arXiv:2112.08682},
   year={2021}
+}
+```
+```bibtex
+@article{virkar2022onoffscreenpa,
+  title={Prosodic alignment for off-screen automatic dubbing},
+  author={Virkar, Yogesh and Federico, Marcello and Enyedi, Robert and Barra-Chicote Roberto},
+  journal={arXiv preprint arXiv:2204.02530},
+  year={2022}
 }
 ```
