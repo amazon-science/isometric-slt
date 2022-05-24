@@ -3,7 +3,7 @@
 As part of the shared task objectives, we assessed the impact of isometric translations 
 on a downstream task - automatic dubbing (AD). 
 To generate automatically dubbed videos we leverage the AD arch 
-from [Federico et al.](README.md#references). To project the speech-pause structure from the source text to the translated text, we use the latest prosodic alignment model from [Virkar et al.](README.md#references).   
+from [Federico et al.](README.md#references). To project the speech-pause structure from the source to the target, we use the latest prosodic alignment model from [Virkar et al.](README.md#references).   
 Table lists the participating team and the corresponding video title. 
 
 
