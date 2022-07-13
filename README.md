@@ -6,17 +6,23 @@ This repo contains dataset (_test_), recipes, and scripts to set up and evaluate
 At the [IWSLT 2022](https://iwslt.org/2022) evaluation campaign we are organizing an 
 [isometric spoken language translation](https://iwslt.org/2022/isometric) task.
 The task requires participants to submit their system(s) performance evaluation on the publicly available test set (MuST-C), 
-and blind test set curated by the organizers. Following the evaluation timeline the blind set can be accessed 
-from [./dataset/isometric-mt-test](dataset/isometric-mt-test). For evaluation scripts see [./scripts](scripts).
+and blind test set curated by the organizers. 
 
+
+## Task Evaluation
+Following the task evaluation timeline the blind set can be accessed 
+from [./dataset/isometric-mt-test](dataset/isometric-mt-test). For evaluation scripts see [./scripts](scripts).
 
 For more details, see shared task [evaluation](https://iwslt.org/2022/isometric#evaluation) and 
 [system submission](https://iwslt.org/2022/isometric#system-submission) descriptions. 
 
+
 ## Baselines
-_Results will be made available by the end of the evaluation period (March 30, 2022)._
+For baseline model training and evaluation, see [baselines readme](baselines).
+
 
 ## Submissions
+For participating teams and their submissions, see [submissions readme](submissions). 
 
 
 ## Use cases 
@@ -26,11 +32,10 @@ from baseline and systems submitted for the task.
 
 
 ## Security
-
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
-## License
 
+## License
 This project is licensed under the CC-BY-4.0 License.
 
 

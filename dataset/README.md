@@ -1,4 +1,4 @@
-# Isometric Spoken Language Translation Dataset
+# Isometric Spoken Language Translation: Datasets
 
 ## Evaluation Test Set
 

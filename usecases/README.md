@@ -1,4 +1,4 @@
-## Isometric Spoken Language Translation Use case
+## Isometric Spoken Language Translation: Use cases 
 
 As part of the shared task objectives, we assessed the impact of isometric translations 
 on a downstream task - automatic dubbing (AD). 
